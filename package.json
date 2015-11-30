@@ -1,0 +1,25 @@
+{
+  "name": "metrics",
+  "version": "1.0.0",
+  "description": "Tracking my Metrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanmick/metrics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanmick/metrics/issues"
+  },
+  "homepage": "https://github.com/ethanmick/metrics#readme",
+  "dependencies": {
+    "coffee-script": "1.10.0",
+    "hapi": "11.1.2",
+    "hapi-auth-basic": "4.1.0"
+  }
+}
